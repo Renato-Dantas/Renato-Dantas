@@ -1,25 +1,20 @@
 ### Hello! Nice to meet you! 👋
 
-👨‍🎓 Automation Engineering
-
-📊 Data Analitcs
-
-🤖 Machine Learning
-
-🌐 Front-End Development
-
-🎼 Guitar Player
-
-🎮 Gamer
-
-##
-
 ### About me:
 Passionate about programming, I've started learning about Python and never stopped, developing solutions for my work, creating Machine Learning algorithms and analyzing data to get insights.
 
 Now I'm on an adventure to become a Front-End Developer.
 
 Please enjoy my jobs and feel free to contribute!
+
+##
+
+👨‍🎓 Automation Engineering
+📊 Data Analitcs
+🤖 Machine Learning
+🌐 Front-End Development
+🎼 Guitar Player
+🎮 Gamer
 
 ##
 
