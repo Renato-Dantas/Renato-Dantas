@@ -1,9 +1,14 @@
 ### Hello! Nice to meet you! 👋
 
 ### About me:
-Passionate about programming, I've started learning about Python and never stopped, developing solutions for my work, creating Machine Learning algorithms and analyzing data to get insights.
 
-Now I'm on an adventure to become a Front-End Developer.
+I'm graduated on Automation Engineering and passionate about programming.
+
+I've started with Python and now i'm discovering a whole world on JS.
+
+I'm working with Front End development using JS, Jquery and React on the e-commerce segment, acting on Vtex and Shopify platforms..
+
+Also working with development on Wordpress to small clients.
 
 Please enjoy my jobs and feel free to contribute!
 
